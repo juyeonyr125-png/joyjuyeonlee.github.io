@@ -5567,7 +5567,7 @@ html[lang="en"] body{
 <div class="footer-title"><span class="i18n-text" data-en="JU YEON LEE · PORTFOLIO" data-ko="이주연 · JU YEON LEE PORTFOLIO">이주연 · JU YEON LEE PORTFOLIO</span></div>
 <div class="footer-copy">SPORTS &amp; ENTERTAINMENT IP BUSINESS</div>
 </div>
-<div class="footer-right">(P) 010-5353-5174    I    (E) juyeonyr125@gmail.com</div>
+
 </div>
 </footer>
 <script>
